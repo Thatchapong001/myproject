@@ -70,8 +70,8 @@
 <body>
  <!-- header -->
 <div class="jumbotron text-center" style="margin-bottom:0; background-color:#080808;">
-  <h1>Blog of Holiday </h1>
-  <p>You wanna be monkey for eat banana</p> 
+  <h1>Blog of ForWhat </h1>
+  <p>I don't have sanity, I don't know what i do</p> 
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
@@ -115,15 +115,6 @@
         <li class="nav-item">
           <a class="nav-link active" href="https://www.arknights.global/" target="blank">Active</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#">Disabled</a>
-        </li>
       </ul>
       <hr class="d-sm-none">
     </div>
@@ -131,7 +122,6 @@
 
     <div class="col-sm-8">
       <h2>Me in Holiday</h2>
-      <h5>Title description, Dec 7, 2017</h5>
       <div class="fakeimg">
         <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/3rd-aniv-arknights/sticker_4.gif?174d52872f3de9bf2a6016a9e0c63aa0">
       </div>
