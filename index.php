@@ -75,7 +75,7 @@
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <a class="navbar-brand" href="#">BananaBar</a>
+  <a class="navbar-brand" href="#">Menu</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -93,11 +93,6 @@
     </ul>
   </div>  
 </nav>
-
-<!-- center Image -->
-<!-- <div style="display: grid; place-items: center; height: auto;">
-  <img src="https://images.mobi.gg/wp-content/uploads/2020/06/Originite.webp" alt="Image">
-</div> -->
 
 <div class="container" style="margin-top:30px">
   <div class="row">
@@ -118,8 +113,6 @@
       </ul>
       <hr class="d-sm-none">
     </div>
-
-
     <div class="col-sm-8">
       <h2>Me in Holiday</h2>
       <div class="fakeimg">
